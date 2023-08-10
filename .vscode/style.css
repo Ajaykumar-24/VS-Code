@@ -1,0 +1,25 @@
+.h-center{
+    text-align: center;
+}
+.card{
+    background-image: url(https://img.freepik.com/free-photo/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783.jpg?size=626&ext=jpg);
+    text-align: center;
+    height: 100vh;
+    background-size: cover;
+    
+    
+}
+.main-heading{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 100;
+    font-weight: 100;
+    text-decoration: underline;
+}
+.paragraph{
+    color: orange;
+    
+}
+
+

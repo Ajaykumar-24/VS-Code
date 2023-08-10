@@ -1,0 +1,23 @@
+.background{
+    background-color: lightblue;
+    height: 100vh;
+}
+.main-heading{
+    height: 22vh;
+    margin: 5px;
+    padding: 5px;
+    background-color: #fb4e71;
+    text-align: left;
+    color: white;
+}
+
+.side-heading{
+    background-color: white;
+    text-align: left;
+    color: black;
+    margin: 10px;
+    border-radius: 10px;
+}
+.para{
+
+}

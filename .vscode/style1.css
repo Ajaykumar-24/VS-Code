@@ -1,0 +1,24 @@
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/cardano-blockchain-platform_23-2150411956.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.card{
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 15px;
+    padding: 10px;
+}
+.button{
+    height: 36px;
+    width: 140px;
+    background-color: #25b1cc;
+    color: aliceblue;
+    border-radius: 55px;
+    border-width: 0px;
+
+}
+.button-green{
+    background-color: green;
+}

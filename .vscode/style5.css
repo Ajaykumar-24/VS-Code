@@ -1,0 +1,30 @@
+.bg-img{
+     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+     background-size: cover;
+     height: 100vh;
+}
+.news-card {
+    background-color: white;
+    padding: 24px;
+    
+}
+
+.main-heading {
+    color: #323f4b;
+    font-family: Roboto;
+}
+
+.paragraph-heading {
+    color: #3323f4;
+    font-family: Roboto;
+}
+
+.paragraph-description {
+    color: #7b8794;
+    font-family: Roboto;
+}
+
+.button-read {
+    background-color: #323f4b;
+    color: #ffffff;
+}
