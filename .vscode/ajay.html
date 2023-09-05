@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dark Mode Toggle Button</title>
+    <style>
+        /* Define styles for dark mode */
+        body.dark-mode {
+            background-color: black;
+            color: white;
+        }
+        
+        /* Define styles for light mode */
+        body.light-mode {
+            background-color: white;
+            color: black;
+        }
+        
+        /* Style the dark mode toggle button */
+        .dark-mode-button {
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body class="light-mode">
+
+    <h1>Welcome to My Website</h1>
+
+    <!-- Dark Mode Toggle Button -->
+    <button class="dark-mode-button" onclick="toggleDarkMode()">Toggle Dark Mode</button>
+
+    <script>
+        function toggleDarkMode() {
+            var body = document.body;
+            body.classList.toggle("dark-mode");
+        }
+    </script>
+</body>
+</html>
